@@ -1,4 +1,5 @@
-<hr>Data-Structures</hr>
+#Data Structures
+
 
 A repository of various data structures and sorts, and others I have written in C.
 
