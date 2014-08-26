@@ -1,7 +1,7 @@
 #Data Structures
 
 
-A repository of various data structures and sorts, and others I have written in C.
+A repository of various data structures, sorts, and others I have written in C.
 
 I will continually update this as I implement more!
 
