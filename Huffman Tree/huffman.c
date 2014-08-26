@@ -71,10 +71,6 @@ main(int argc, char*argv[])
 
 	assert(fp!=NULL);
 
-	dp = fopen(argv[2], "w");
-
-	assert(dp!=NULL);
-
 	while((c=getc(fp))!=EOF) //add characters by index to count array and increases their count.
 		counts[c]++;
 
