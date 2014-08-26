@@ -2,7 +2,7 @@
  * File:	tree.h
  *
  * Description:	This file contains the public function declarations for a
- *		simply binary tree abstract data type.
+ *		binary tree ADT.
  */
 
 struct tree *createTree(int data, struct tree *left, struct tree *right);
