@@ -40,7 +40,6 @@ int
 main(int argc, char*argv[]) 
 {
 	FILE *fp;
-	FILE *dp;
 	int i = 0;
 	int j = 0;
 	int z = 0;
