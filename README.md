@@ -7,7 +7,7 @@ I will continually update this as I implement more.
 
 ###Hash Table
 
-An implementation of the traditonal hash table.
+An implementation of the traditonal hash table in C and Java.
 
 ###Huffman Tree
 

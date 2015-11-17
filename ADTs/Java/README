@@ -1,0 +1,5 @@
+Written and tested with
+java version "1.8.0_05"
+Java(TM) SE Runtime Environment (build 1.8.0_05-b13)
+
+To run unit tests, enable "-ea" flag, compile and run. 
